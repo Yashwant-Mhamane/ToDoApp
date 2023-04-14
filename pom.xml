@@ -15,6 +15,7 @@
   <modules>
     <module>UserService</module>
     <module>EurekaServer</module>
+    <module>ApiGateway</module>
   </modules>
 
 
