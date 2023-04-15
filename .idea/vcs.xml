@@ -4,6 +4,7 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ApiGateway" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/EurekaServer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ToDoService" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/UserService" vcs="Git" />
   </component>
 </project>
