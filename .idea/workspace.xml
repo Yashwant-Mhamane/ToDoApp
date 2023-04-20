@@ -4,30 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4aa08a1d-2519-4bbb-9fa7-b15fe08a72b6" name="Changes" comment="Dockerfile added for">
-      <change afterPath="$PROJECT_DIR$/ApiGateway/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EurekaServer/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ToDoService/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserService/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApiGateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ApiGateway/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApiGateway/src/main/java/com/niit/bej/apigateway/config/RouterConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/ApiGateway/src/main/java/com/niit/bej/apigateway/config/RouterConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApiGateway/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ApiGateway/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArchiveService/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ArchiveService/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EurekaServer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/EurekaServer/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDoService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoService/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDoService/src/main/java/com/niit/bej/todoservice/Proxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoService/src/main/java/com/niit/bej/todoservice/Proxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDoService/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoService/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UserService/pom.xml" afterDir="false" />
+    <list default="true" id="4aa08a1d-2519-4bbb-9fa7-b15fe08a72b6" name="Changes" comment="done with docker">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveService/src/main/java/com/niit/bej/archiveservice/Exception/TaskNotFound.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArchiveService/src/main/java/com/niit/bej/archiveservice/Controller/ArchiveController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArchiveService/src/main/java/com/niit/bej/archiveservice/Controller/ArchiveController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArchiveService/src/main/java/com/niit/bej/archiveservice/Repository/ArchiveRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArchiveService/src/main/java/com/niit/bej/archiveservice/Repository/ArchiveRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArchiveService/src/main/java/com/niit/bej/archiveservice/Service/ArchiveService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArchiveService/src/main/java/com/niit/bej/archiveservice/Service/ArchiveService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArchiveService/src/main/java/com/niit/bej/archiveservice/Service/ArchiveServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArchiveService/src/main/java/com/niit/bej/archiveservice/Service/ArchiveServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArchiveService/src/main/java/com/niit/bej/archiveservice/domain/Archive.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArchiveService/src/main/java/com/niit/bej/archiveservice/domain/Archive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDoService/src/main/java/com/niit/bej/todoservice/controller/ToDoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoService/src/main/java/com/niit/bej/todoservice/controller/ToDoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDoService/src/main/java/com/niit/bej/todoservice/domain/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoService/src/main/java/com/niit/bej/todoservice/domain/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDoService/src/main/java/com/niit/bej/todoservice/service/TodoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoService/src/main/java/com/niit/bej/todoservice/service/TodoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDoService/src/main/java/com/niit/bej/todoservice/service/TodoServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoService/src/main/java/com/niit/bej/todoservice/service/TodoServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserService/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/UserService/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserService/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/UserService/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ToDoService" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ArchiveService" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -63,17 +70,27 @@
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "D:/To Do Tracker Final Project/Frontend Part/ToDoApp",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "advanced.settings",
+    "spring.configuration.checksum": "65e0e1c496fa2ec9efc8a0b58c7cab14",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.niit.bej.archiveservice.Exception" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\To Do Tracker Final Project\Frontend Part\ToDoApp\ArchiveService\src\main\java\com\niit\bej\archiveservice\domain" />
+      <recent name="D:\To Do Tracker Final Project\Frontend Part\ToDoApp\ArchiveService\src\main\java\com\niit\bej\archiveservice\config1" />
+      <recent name="D:\To Do Tracker Final Project\Frontend Part\ToDoApp\ArchiveService\src\main\java\com\niit\bej\archiveservice" />
       <recent name="D:\To Do Tracker Final Project\Frontend Part\ToDoApp" />
     </key>
   </component>
@@ -129,7 +146,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681809317966</updated>
-      <workItem from="1681809318146" duration="2811000" />
+      <workItem from="1681809318146" duration="5810000" />
+      <workItem from="1681815744540" duration="1818000" />
+      <workItem from="1681818356678" duration="6370000" />
+      <workItem from="1681875781745" duration="2640000" />
+      <workItem from="1681885744664" duration="527000" />
+      <workItem from="1681964964714" duration="12891000" />
+      <workItem from="1681985408784" duration="1258000" />
     </task>
     <task id="LOCAL-00001" summary="Dockerfile added for">
       <created>1681810750648</created>
@@ -138,14 +161,33 @@
       <option name="project" value="LOCAL" />
       <updated>1681810750648</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="done with docker">
+      <created>1681812211311</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681812211311</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Dockerfile added for" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dockerfile added for" />
+    <MESSAGE value="done with docker" />
+    <option name="LAST_COMMIT_MESSAGE" value="done with docker" />
   </component>
 </project>
