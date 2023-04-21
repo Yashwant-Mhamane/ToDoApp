@@ -72,11 +72,11 @@ services:
     restart: always
     environment:
       SPRING_RABBITMQ_HOST: rabbitmqcontainer
-  userarchieveservice:
-    container_name: archiveserverclient
+  notificationservice:
+    container_name: notificationserverclient
     networks:
       - tasknetwork
-    build: ArchiveService/
+    build: NotificationService/
     ports:
       - 8085:8085
     depends_on:
