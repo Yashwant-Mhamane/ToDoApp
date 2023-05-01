@@ -20,6 +20,7 @@
     <module>ApiGateway</module>
     <module>ToDoService</module>
     <module>NotificationService</module>
+    <module>EmailService</module>
   </modules>
 
   <url>http://maven.apache.org</url>
