@@ -4,26 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b184266-aa4a-4065-b2bc-822acc8be08f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+    <list default="true" id="3b184266-aa4a-4065-b2bc-822acc8be08f" name="Changes" comment="Pom.Xml updated">
+      <change afterPath="$PROJECT_DIR$/EmailService/src/main/java/com/niit/bej/emailservice/domain/EmailData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EmailService/HELP.md" beforeDir="false" afterPath="$PROJECT_DIR$/EmailService/HELP.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotificationService/src/main/java/com/niit/bej/notificationservice/Controller/NotificationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/NotificationService/src/main/java/com/niit/bej/notificationservice/Controller/NotificationController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotificationService/src/main/java/com/niit/bej/notificationservice/NotificationServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/NotificationService/src/main/java/com/niit/bej/notificationservice/NotificationServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDoService/src/main/java/com/niit/bej/todoservice/controller/ToDoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoService/src/main/java/com/niit/bej/todoservice/controller/ToDoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDoService/src/main/java/com/niit/bej/todoservice/domain/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoService/src/main/java/com/niit/bej/todoservice/domain/Task.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDoService/src/main/java/com/niit/bej/todoservice/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoService/src/main/java/com/niit/bej/todoservice/domain/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDoService/src/main/java/com/niit/bej/todoservice/service/TodoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoService/src/main/java/com/niit/bej/todoservice/service/TodoService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDoService/src/main/java/com/niit/bej/todoservice/service/TodoServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoService/src/main/java/com/niit/bej/todoservice/service/TodoServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDoService/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoService/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDoService/src/test/java/com/niit/bej/todoservice/controller/ToDoControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoService/src/test/java/com/niit/bej/todoservice/controller/ToDoControllerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDoService/src/test/java/com/niit/bej/todoservice/service/TodoServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoService/src/test/java/com/niit/bej/todoservice/service/TodoServiceImplTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserService/src/test/java/com/niit/bej/userservice/service/UserServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserService/src/test/java/com/niit/bej/userservice/service/UserServiceImplTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/EmailService" />
@@ -47,13 +43,16 @@
     <option name="skipTests" value="true" />
   </component>
   <component name="ProjectId" id="2P08kn1hE81009HNoLN7hCZue0Z" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -79,6 +78,13 @@
     <configuration name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="ApiGateway" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.niit.bej.apigateway.ApiGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmailServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="EmailService" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.niit.bej.emailservice.EmailServiceApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -123,11 +129,51 @@
       <workItem from="1682582794485" duration="765000" />
       <workItem from="1682839460453" duration="8803000" />
       <workItem from="1682913375909" duration="4394000" />
-      <workItem from="1682923162431" duration="460000" />
+      <workItem from="1682923162431" duration="774000" />
     </task>
+    <task id="LOCAL-00001" summary="getUser method added in service and controller layer">
+      <created>1682923754059</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682923754059</updated>
+    </task>
+    <task id="LOCAL-00002" summary="New Module EmailService added">
+      <created>1682923797445</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682923797445</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Pom.Xml updated">
+      <created>1682923915125</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682923915125</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="getUser method added in service and controller layer" />
+    <MESSAGE value="New Module EmailService added" />
+    <MESSAGE value="Pom.Xml updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pom.Xml updated" />
   </component>
 </project>
