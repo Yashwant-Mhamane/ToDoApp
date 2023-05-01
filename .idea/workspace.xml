@@ -4,54 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97f4dad3-6042-44b8-a07e-b3a008c67e58" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/NotificationService/src/main/java/com/niit/bej/notificationservice/Repository/NotificationRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NotificationService/src/main/java/com/niit/bej/notificationservice/Service/NotificationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ToDoService/src/test/java/com/niit/bej/todoservice/controller/ToDoControllerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ToDoService/src/test/java/com/niit/bej/todoservice/service/TodoServiceImplTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserService/src/test/java/com/niit/bej/userservice/service/UserServiceImplTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="3b184266-aa4a-4065-b2bc-822acc8be08f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApiGateway/src/main/java/com/niit/bej/apigateway/config/RouterConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/ApiGateway/src/main/java/com/niit/bej/apigateway/config/RouterConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotificationService/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/NotificationService/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotificationService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NotificationService/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotificationService/src/main/java/com/niit/bej/archiveservice/ArchiveServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/NotificationService/src/main/java/com/niit/bej/notificationservice/NotificationServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotificationService/src/main/java/com/niit/bej/archiveservice/Controller/ArchiveController.java" beforeDir="false" afterPath="$PROJECT_DIR$/NotificationService/src/main/java/com/niit/bej/notificationservice/Controller/NotificationController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotificationService/src/main/java/com/niit/bej/archiveservice/Exception/TaskNotFound.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotificationService/src/main/java/com/niit/bej/archiveservice/Exception/UserNotFound.java" beforeDir="false" afterPath="$PROJECT_DIR$/NotificationService/src/main/java/com/niit/bej/notificationservice/Exception/UserNotFound.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotificationService/src/main/java/com/niit/bej/archiveservice/Repository/ArchiveRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotificationService/src/main/java/com/niit/bej/archiveservice/Service/ArchiveService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotificationService/src/main/java/com/niit/bej/archiveservice/Service/ArchiveServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/NotificationService/src/main/java/com/niit/bej/notificationservice/Service/NotificationServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotificationService/src/main/java/com/niit/bej/archiveservice/config/ArchiveNoteConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/NotificationService/src/main/java/com/niit/bej/notificationservice/config/NotificationConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotificationService/src/main/java/com/niit/bej/archiveservice/config/TaskDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/NotificationService/src/main/java/com/niit/bej/notificationservice/config/TaskDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotificationService/src/main/java/com/niit/bej/archiveservice/domain/Archive.java" beforeDir="false" afterPath="$PROJECT_DIR$/NotificationService/src/main/java/com/niit/bej/notificationservice/domain/Notification.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotificationService/src/main/java/com/niit/bej/archiveservice/filter/JwtFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/NotificationService/src/main/java/com/niit/bej/notificationservice/filter/JwtFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotificationService/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/NotificationService/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotificationService/src/test/java/com/niit/bej/archiveservice/ArchiveServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/NotificationService/src/test/java/com/niit/bej/notificationservice/NotificationServiceApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDoService/src/main/java/com/niit/bej/todoservice/Proxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoService/src/main/java/com/niit/bej/todoservice/Proxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmailService/HELP.md" beforeDir="false" afterPath="$PROJECT_DIR$/EmailService/HELP.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotificationService/src/main/java/com/niit/bej/notificationservice/Controller/NotificationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/NotificationService/src/main/java/com/niit/bej/notificationservice/Controller/NotificationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotificationService/src/main/java/com/niit/bej/notificationservice/NotificationServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/NotificationService/src/main/java/com/niit/bej/notificationservice/NotificationServiceApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ToDoService/src/main/java/com/niit/bej/todoservice/controller/ToDoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoService/src/main/java/com/niit/bej/todoservice/controller/ToDoController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ToDoService/src/main/java/com/niit/bej/todoservice/domain/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoService/src/main/java/com/niit/bej/todoservice/domain/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDoService/src/main/java/com/niit/bej/todoservice/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoService/src/main/java/com/niit/bej/todoservice/domain/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ToDoService/src/main/java/com/niit/bej/todoservice/service/TodoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoService/src/main/java/com/niit/bej/todoservice/service/TodoService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ToDoService/src/main/java/com/niit/bej/todoservice/service/TodoServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoService/src/main/java/com/niit/bej/todoservice/service/TodoServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserService/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/UserService/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDoService/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoService/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDoService/src/test/java/com/niit/bej/todoservice/controller/ToDoControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoService/src/test/java/com/niit/bej/todoservice/controller/ToDoControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDoService/src/test/java/com/niit/bej/todoservice/service/TodoServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoService/src/test/java/com/niit/bej/todoservice/service/TodoServiceImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserService/src/test/java/com/niit/bej/userservice/service/UserServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserService/src/test/java/com/niit/bej/userservice/service/UserServiceImplTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="JUnit5 Test Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ToDoService" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/EmailService" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -71,98 +46,88 @@
   <component name="MavenRunner">
     <option name="skipTests" value="true" />
   </component>
-  <component name="ProjectId" id="2OhDFR2YUy8nIW29o2qDOxjGCl4" />
+  <component name="ProjectId" id="2P08kn1hE81009HNoLN7hCZue0Z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/NIIT_Full stack/Projects/ToDoApp1/ToDoApp/ToDoService/src/test/java/com/niit/bej/todoservice&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "19",
+    "last_opened_file_path": "D:/BackEnd/Final Project/MailService",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "spring.configuration.checksum": "dd31aefdabb1f948434f320c6bd6ee76",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\NIIT_Full stack\Projects\ToDoApp1\ToDoApp\ToDoService\src\test\java\com\niit\bej\todoservice" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="com.niit.bej.userservice.service" />
-    </key>
+}]]></component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
   </component>
-  <component name="RunManager" selected="JUnit.ToDoControllerTest">
-    <configuration name="ToDoControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ToDoService" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.niit.bej.todoservice.controller.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.niit.bej.todoservice.controller" />
-      <option name="MAIN_CLASS_NAME" value="com.niit.bej.todoservice.controller.ToDoControllerTest" />
-      <option name="TEST_OBJECT" value="class" />
+  <component name="RunManager" selected="Spring Boot.ApiGatewayApplication">
+    <configuration name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ApiGateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.niit.bej.apigateway.ApiGatewayApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TodoServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ToDoService" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.niit.bej.todoservice.service.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.niit.bej.todoservice.service" />
-      <option name="MAIN_CLASS_NAME" value="com.niit.bej.todoservice.service.TodoServiceImplTest" />
-      <option name="TEST_OBJECT" value="class" />
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="EurekaServer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.niit.bej.eurekaserver.EurekaServerApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="NotificationServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="NotificationService" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.niit.bej.notificationservice.NotificationServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToDoServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ToDoService" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.niit.bej.todoservice.ToDoServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="UserService" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.niit.bej.userservice.service.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.niit.bej.userservice.service" />
-      <option name="MAIN_CLASS_NAME" value="com.niit.bej.userservice.service.UserServiceImplTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.niit.bej.userservice.UserServiceApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JUnit.ToDoControllerTest" />
-        <item itemvalue="JUnit.UserServiceImplTest" />
-        <item itemvalue="JUnit.TodoServiceImplTest" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="97f4dad3-6042-44b8-a07e-b3a008c67e58" name="Changes" comment="" />
-      <created>1682003824295</created>
+      <changelist id="3b184266-aa4a-4065-b2bc-822acc8be08f" name="Changes" comment="" />
+      <created>1682582793816</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1682003824295</updated>
+      <updated>1682582793816</updated>
+      <workItem from="1682582794485" duration="765000" />
+      <workItem from="1682839460453" duration="8803000" />
+      <workItem from="1682913375909" duration="4394000" />
+      <workItem from="1682923162431" duration="460000" />
     </task>
     <servers />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
