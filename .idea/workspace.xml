@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b184266-aa4a-4065-b2bc-822acc8be08f" name="Changes" comment="Pom.Xml updated">
-      <change afterPath="$PROJECT_DIR$/EmailService/src/main/java/com/niit/bej/emailservice/domain/EmailData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="3b184266-aa4a-4065-b2bc-822acc8be08f" name="Changes" comment="Getters - Setters added">
+      <change beforePath="$PROJECT_DIR$/EmailService/src/main/java/com/niit/bej/emailservice/domain/EmailData.java" beforeDir="false" afterPath="$PROJECT_DIR$/EmailService/src/main/java/com/niit/bej/emailservice/domain/EmailData.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +127,7 @@
       <workItem from="1682582794485" duration="765000" />
       <workItem from="1682839460453" duration="8803000" />
       <workItem from="1682913375909" duration="4394000" />
-      <workItem from="1682923162431" duration="774000" />
+      <workItem from="1682923162431" duration="1087000" />
     </task>
     <task id="LOCAL-00001" summary="getUser method added in service and controller layer">
       <created>1682923754059</created>
@@ -152,7 +150,35 @@
       <option name="project" value="LOCAL" />
       <updated>1682923915125</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Domain pkg created and EmailData.java class added">
+      <created>1682923989877</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682923989877</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Attributes added in EmailData">
+      <created>1682924202997</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1682924202997</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Constructors added">
+      <created>1682924242837</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1682924242837</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Getters - Setters added">
+      <created>1682924265636</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1682924265636</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,6 +200,10 @@
     <MESSAGE value="getUser method added in service and controller layer" />
     <MESSAGE value="New Module EmailService added" />
     <MESSAGE value="Pom.Xml updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pom.Xml updated" />
+    <MESSAGE value="Domain pkg created and EmailData.java class added" />
+    <MESSAGE value="Attributes added in EmailData" />
+    <MESSAGE value="Constructors added" />
+    <MESSAGE value="Getters - Setters added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Getters - Setters added" />
   </component>
 </project>
